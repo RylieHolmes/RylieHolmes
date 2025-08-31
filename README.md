@@ -1,7 +1,6 @@
 # Hi, I'm Rylie 👋
 
-I'm a UK-based developer with a lifelong passion for computers and coding. My interest started at a young age and led me to formalize my skills at Broadstairs College, where I dove deep into Python development. I love the challenge of building a complete application from an idea to a polished final product. And if you are wonding why I dont have any projects uploaded for the past few years I only made this account for general use and just started uploading my projects.
-
+I'm a UK-based developer with a lifelong passion for computers and coding. My interest started at a young age and led me to formalize my skills at Broadstairs College, where I dove deep into Python development. I love the challenge of building a complete application from an idea to a polished final product. You also may notice that my project uploads are recent. I created this account some time ago for general use and have only just begun to showcase my work here.
 # What languages i know:
 
 *   Proficient: Python, JavaScript, HTML, CSS
