@@ -4,7 +4,7 @@ I'm a UK-based developer with a lifelong passion for computers and coding. My in
 # What languages i know:
 
 *   Proficient: Python
-*   Sort Of Proficient(could polish): JavaScript, HTML, CSS
-*   Exploring/Sort Of Know: C++, C#, Rust
+*   Sort of proficient: JavaScript, HTML, CSS
+*   Exploring/Sort of know: C++, C#, Rust
 
 Check out my pinned *multi LM* project—it's a great example of the kind of work I'm passionate about!
