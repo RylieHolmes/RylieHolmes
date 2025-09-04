@@ -1,6 +1,8 @@
 # Hi, I'm Rylie 👋
 
-I'm a UK-based developer with a lifelong passion for computers and coding. My interest started at a young age and led me to formalize my skills at my College and online coding courses, where I dove deep into Python development. I love the challenge of building a complete application from an idea to a polished final product. You also may notice that i dont have many project's and the  uploads are recent. I created this account some time ago for general use and have only just begun to showcase my work here.
+I'm a UK-based developer who got into coding at a young age and never looked back. I built on that early interest with a formal education in college and various online courses to dive deeper into development, especially with Python. I really enjoy the entire process of building an application from the initial concept to the final, polished product.
+A quick heads-up about my profile I know there aren't many projects here yet. I created this account a while back for personal use and I'm only now beginning to use it as a proper portfolio to share my work.
+
 # What languages i know:
 
 *   Proficient: Python
