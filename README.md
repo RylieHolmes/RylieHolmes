@@ -7,4 +7,4 @@ I'm a UK-based developer with a lifelong passion for computers and coding. My in
 *   Decent: JavaScript, HTML, CSS
 *   Exploring/Sort of know: C++, C#, Rust
 
-Check out my pinned *AI-Agent-Civilization* project—it's a great example of the kind of work I'm passionate about!
+Check out my pinned *AI-Agent-Civilization* project it's a great example of the kind of work I'm passionate about!
