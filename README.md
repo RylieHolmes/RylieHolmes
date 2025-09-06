@@ -9,7 +9,7 @@ A quick heads-up about my profile I know there aren't many projects here yet. I 
 *   Decent: JavaScript, HTML, CSS
 *   Exploring/Sort of know: C++, C#, Rust
 
-# My website (was made using AI studio)
+# My website
 
 *   https://rylieholmes.github.io/github-project-showcase/
 
