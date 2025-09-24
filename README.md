@@ -13,9 +13,8 @@ A quick heads-up about my profile I know there aren't many projects here yet. I 
 ### 📬 Find me on
 <p align="left">
 <a href="https://rylieholmes.github.io/github-project-showcase/" target="_blank"><img src="https://img.shields.io/badge/Website-478292?style=for-the-badge&logo=github&logoColor=white" alt="Website"></a>
-<!-- Add your other social media links here! -->
-<!-- <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
-<!-- <a href="YOUR_TWITTER_URL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
+<a href="https://www.linkedin.com/in/rylie-holmes-4497a9386/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://discord.com/users/labumhole" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
@@ -49,11 +48,7 @@ A quick heads-up about my profile I know there aren't many projects here yet. I 
 
 **AI-Agent-Civilization**
 
-
 *Check out my pinned repository for a great example of the kind of work I'm passionate about!*
-
-<!-- You can add a cool GIF or screenshot of your project here! -->
-<!-- <img src="URL_TO_YOUR_PROJECT_IMAGE.png" alt="Project Demo"/> -->
 
 </div>
 
