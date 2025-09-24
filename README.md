@@ -49,7 +49,6 @@ A quick heads-up about my profile I know there aren't many projects here yet. I 
 
 **AI-Agent-Civilization**
 
-This is a great place to write a detailed description of your pinned project. Explain what it does, the technologies you used (e.g., Python, specific libraries), and what makes you proud of it. It's the perfect way to show off your skills!
 
 *Check out my pinned repository for a great example of the kind of work I'm passionate about!*
 
